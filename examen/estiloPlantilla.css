@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#333;
+}
+header{
+	margin:auto;
+	width:80%;
+	background-color:#FFC;
+	height:620px;
+}
+#logoimagen{ 
+	width:200px;
+	height:100px;
+}
+#logoimagen2{
+	height:100px;
+	width:850px;
+}
+#banner{
+	height:100px;
+	width:200px;
+	float:left;	
+} 
+#banneri{
+	height:100px;
+	width:860px;
+}
+#Menú{
+	margin:0px;
+	margin-left:0px;
+	padding:0px;
+	float:left;
+	
+	
+}
+#Menú li{
+	display:flex;
+	flex-direction:column;
+	
+
+}
+#Menú li a{
+	width:92px;
+	padding:24px;
+	background-color:black;
+	color:white;
+	text-decoration:none;
+	height:19px;
+	
+	
+}
+#Menú li a:hover{
+	color:skyblue;
+} 
+
+footer{
+	padding:15px 10px ;
+	width:1041px;
+	background-color:black;
+	text-align:center;	
+	margin-left:133px;
+	color:white;
+}
+#sonyu{
+	
+	 	background-color:black;
+	width:1060px;
+	height:50px;
+	color:white;
+    padding:1px;
+	text-align:center;
+	
+}
+#CuerpoDocumento{
+	padding:220px 50px ;
+	margin:auto;
+	width:821px;
+	text-align:center;
+	background-color:#CCC;
+    overflow:scroll;
+	float:right;
+	height:38px;
+	
+	
+}
+
+	
+	

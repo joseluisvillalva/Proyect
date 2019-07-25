@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<link href="../estiloPlantilla.css" rel="stylesheet" type="text/css">
+
+
+
+
+<header>
+ <section id="Imagenes">
+<img src="../Imagenes/logito.jpg" alt="paul" id="logoimagen" >
+<img src="../Imagenes/logo.jpg" alt="cursos" id="logoimagen2"> 
+</section>
+ <section id="sonyu">
+ <h2>Inicio</h2>
+            </section>
+            
+	 <section id="CuerpoDocumento">
+	<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+  </section>
+ 
+    <ul id="Menú">
+                     <li><a href="../cuadritos.html">Presentacion</a></li>   
+                	<li><a href="../sirve.html">Definicion</a></li>   
+                    <li><a href="../curso.html">Tipos</a></li>
+                    <li><a href="../partes.html">Partes</a></li>  
+                    <li><a href="../bizagi.html">Ficha de actvidades</a></li> 
+                    <li><a href="../mer.html">Modelo entidad </a></li>
+                    <li><a href="../logico.html">Modelo logico</a></li> 
+                 
+                    </ul>          
+        </header>
+   
+     
+   
+    <footer>
+    <h4>Todos los derechos reservados</h4>  
+    </footer>
+
+
+</html>
